@@ -10,7 +10,7 @@
   path = $HOME/.config/bspwm
   url = git@github.com:whiteboardev/bspwm.git
 
-[submodule "alacritty"]
+[submodule "./alacritty"]
   path = $HOME/.config/alacritty
   url = git@github.com:whiteboardev/alacritty.git
 
