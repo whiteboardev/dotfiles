@@ -1,23 +1,23 @@
-[submodule "$HOME/.config/polybar"]
-  path = $HOME/.config/polybar
+[submodule "polybar"]
+  path = ./polybar
   url = git@github.com:whiteboardev/polybar.git
 
-[submodule "$HOME/.config/wireplumber"]
-  path = $HOME/.config/wireplumber
+[submodule "wireplumber"]
+  path = ./wireplumber
   url = git@github.com:whiteboardev/wireplumber.git
 
-[submodule "$HOME/.config/bspwm"]
-  path = $HOME/.config/bspwm
+[submodule "bspwm"]
+  path = ./bspwm
   url = git@github.com:whiteboardev/bspwm.git
 
-[submodule "$HOME/.config/alacritty"]
-  path = $HOME/.config/alacritty
+[submodule "alacritty"]
+  path = ./alacritty
   url = git@github.com:whiteboardev/alacritty.git
 
-[submodule "$HOME/.config/picom"]
-  path = $HOME/.config/picom
+[submodule "picom"]
+  path = ./picom
   url = git@github.com:whiteboardev/picom.git
 
-[submodule "$HOME/.config/sxhkd"]
-  path = $HOME/.config/sxhkd
+[submodule "sxhkd"]
+  path = ./sxhkd
   url = git@github.com:whiteboardev/sxhkd.git
