@@ -1,0 +1,10 @@
+*
+
+!.gitignore
+!bspwm
+!alacritty
+!picom
+!polybar
+!wireplumber
+!starship.toml
+!sxhkd
